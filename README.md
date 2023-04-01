@@ -22,7 +22,7 @@ ATCCAAT <br>
 ATTGCCA-TT <br>
 ATGGCCA-TT <br>
 AT--CCAAT- <br>
-**  *** *  <br>
+\*\*&nbsp;&nbsp;\*\*\*&nbsp;\*  <br>
 
 ## 한계
 
